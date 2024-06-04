@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: aqua;
+    color:blue;
+}
+.foto{
+    width: 20%;
+}
